@@ -109,7 +109,25 @@ The app includes:
 - Settings panel
 
 ### 📸 Screenshots
-Coming soon...
+<h2 align="center">Screenshots</h2>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a9ff6e18-1b5a-4071-9efc-3fdbd094ea71" width="450" alt="Screenshot 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/dced1b8e-0eb9-42da-9a05-fa351065ebef" width="450" alt="Screenshot 2"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5cd2b37a-5768-4506-a610-c694b73642bd" width="450" alt="Screenshot 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/98f2026a-7a29-4c85-92b0-0ddb6a82a54a" width="450" alt="Screenshot 4"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/01a80126-03a9-4de9-b247-e33e659fc5c3" width="450" alt="Screenshot 5"></td>
+    <td><img src="https://github.com/user-attachments/assets/5b737e28-148d-4928-a29d-b38c00c4ed64" width="450" alt="Screenshot 6"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0104b930-ddd3-418f-9126-15b897061b04" width="450" alt="Screenshot 7"></td>
+  </tr>
+</table>
 
 ## 🔒 Privacy
 
