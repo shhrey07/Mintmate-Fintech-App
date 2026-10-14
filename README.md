@@ -3,6 +3,13 @@
 A modern fintech application designed for college students in India to manage their monthly budget, track expenses, and achieve savings goals.
 
 ![MintMate Logo](https://img.shields.io/badge/MintMate-Budget_Tracker-3dd683?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://mintmate-mu.vercel.app)
+
+## 🌐 Live Demo
+
+**🚀 [Try MintMate Live on Vercel](https://mintmate-mu.vercel.app)**
+
+> ⚠️ **Note**: This is a prototype. All data is stored locally in your browser and is not persisted across sessions.
 
 ## ✨ Features
 
@@ -89,6 +96,9 @@ src/
 
 ## 📱 Preview
 
+### 🌐 Try it Live!
+**[Launch MintMate App →](https://mintmate-mu.vercel.app)**
+
 The app includes:
 - Landing page with feature showcase
 - User authentication (sign up/sign in)
@@ -97,6 +107,9 @@ The app includes:
 - Expense tracking interface
 - Analytics and insights
 - Settings panel
+
+### 📸 Screenshots
+Coming soon...
 
 ## 🔒 Privacy
 
