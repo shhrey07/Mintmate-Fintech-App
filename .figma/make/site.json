@@ -1,0 +1,11 @@
+{
+  "title": "MintMate - Smart Budget Tracking for Students",
+  "description": "Helps Indian college students manage allowances by tracking expenses, budgeting daily spending, saving for goals, and monitoring bills with ease.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
